@@ -6,7 +6,7 @@ This project covers essential JavaScript concepts including **DOM Manipulation**
 ---
 
 ## 🔗 Live Demo  
-👉 (https://multiple-bookmark-app.netlify.app/)
+👉 [Visit](https://multiple-bookmark-app.netlify.app/)
 
 ---
 
